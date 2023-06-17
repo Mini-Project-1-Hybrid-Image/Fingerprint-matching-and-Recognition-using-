@@ -1,5 +1,6 @@
 # Methodology
 The fingerprint recognition algorithm employed in this project consists of two main parts:
+
 ![image](https://github.com/Mini-Project-1-Hybrid-Image/Fingerprint-matching-and-Recognition-using-/assets/49596777/a2c4cee9-1d95-416d-b060-eb5789d28ea0)
 
 
